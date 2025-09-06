@@ -1,6 +1,6 @@
 # Hi, I'm Manish Daemrot! 👋
 
-I am a passionate pre-final year B.Tech student at Delhi Technological University, driven by a curiosity for technology and a love for impactful projects. My journey involves exploring computer science, cybersecurity, and web development, while also leading community-focused initiatives.
+I am a passionate final year B.Tech student at Delhi Technological University, driven by a curiosity for technology and a love for impactful projects. My journey involves exploring computer science, cybersecurity, and web development, while also leading community-focused initiatives.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idaemrot&layout=compact&theme=vue-dark&hide_border=true)
 
