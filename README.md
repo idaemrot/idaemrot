@@ -1,41 +1,61 @@
-# Hi, I'm Manish Daemrot! 👋
+# Hi, I'm Manish Daemrot 👋
 
-I am a passionate final year B.Tech student at Delhi Technological University, driven by a curiosity for technology and a love for impactful projects. My journey involves exploring computer science, cybersecurity, and web development, while also leading community-focused initiatives.
+I am a final-year **B.Tech undergraduate in Mathematics & Computing Engineering at Delhi Technological University (DTU)** with a strong interest in **full-stack development, cybersecurity, and system design**. I focus on building scalable, secure, and performance-oriented solutions while maintaining clean and maintainable codebases.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idaemrot&layout=compact&theme=vue-dark&hide_border=true)
 
+---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my B.Tech in Mathematics & Computing Engineering at Delhi Technological University (DTU).
-- 🧠 I’ve built tools in cybersecurity, web platforms, and analytics using Python, React, Node.js, and more.
-- 🌐 Actively working on social impact through leadership roles in NSS DTU.
-- ✍️ I enjoy building and optimizing tech solutions for real-world problems.
+- 🎓 Final-year B.Tech student in Mathematics & Computing Engineering (2022–2026)
+- 💻 Full-stack developer with hands-on experience in React, Node.js, TypeScript, and Python
+- 🔐 Experience in cybersecurity and digital forensics, including image anomaly and steganography detection
+- 🧠 Strong foundation in data structures, algorithms, and database optimization
+- 🤝 Leadership experience through National Service Scheme (NSS) DTU
+- ⚙️ Interested in building secure, efficient, and real-world production systems
 
-## Tech Stack
+---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,nodejs,mysql)](https://skillicons.dev)  
-&nbsp;  
+## 🧰 Tech Stack
+
+### 💻 Languages
+[![Languages](https://skillicons.dev/icons?i=c,cpp,js,py)](https://skillicons.dev)
+
+### 🌐 Frontend
+[![Frontend](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
+
+### ⚙️ Backend & Frameworks
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,typescript,django)](https://skillicons.dev)
+
+### 🗄️ Databases
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+### 🛠️ Tools & Analytics
+[![Tools](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Node.js for dynamic web applications.
-  - Styling with Tailwind CSS for responsive and modern UI.
-  - Building backend systems with Express and database management with MySQL.
-  - Diving into OpenCV and PIL for image processing and cybersecurity applications.
+- Advanced full-stack web development using modern frameworks
+- Secure backend architecture and role-based authentication systems
+- Cybersecurity applications involving image processing and forensic analysis
+- Performance optimization and scalable system design
 
- ## 🏆 Achievements
+---
 
-- 🌟 Awarded Millennium Fellowship for leading NSS DTU’s Voice of Animal initiative supporting UN SDGs.
-- 🥇 Winner – Zonal Science Exhibition (Applied Science)
-- 🚀 Winner – Uable Startup Challenge (Entrepreneurship Exploration)
+## 🏆 Achievements & Leadership
 
-## 📬 Get in Touch
+- 🌟 **Millennium Fellow** — Led NSS DTU’s *Voice of Animal* initiative supporting the UN Sustainable Development Goals
+- 🥇 **Winner** — Zonal Science Exhibition (Applied Science)
+- 🏅 **Finalist** — National Science Exhibition (Transportation & Communication)
+- 🚀 **Winner** — Entrepreneurship Challenge (Startup ideation and pitching)
+- 👥 Led and managed teams of **250+ volunteers** under NSS DTU, handling planning, execution, and operations
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/manish-daemrot)
-- Check out my projects on [GitHub](https://github.com/idaemrot)
+---
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thank you for visiting my profile.
