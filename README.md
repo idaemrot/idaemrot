@@ -116,16 +116,14 @@ I build scalable, secure, and performance-focused applications with clean archit
 
 ---
 
-## Achievements & Leadership
+## Leadership & Recognition
 
-- Millennium Fellow — Led NSS DTU’s *Voice of Animal* initiative aligned with UN SDGs  
-- Winner — Zonal Science Exhibition  
-- Finalist — National Science Exhibition  
-- Winner — Entrepreneurship Challenge  
-- Led and managed 250+ volunteers under NSS DTU  
+- Millennium Fellow — Led a 250+ member initiative under NSS DTU, managing structured execution across multiple programs  
+- Recognized at Zonal and National Science Exhibitions for applied problem-solving projects  
+- Winner — Entrepreneurship Challenge (Startup ideation & structured pitching)
 
 ---
 
 <p align="center">
-  <i>Building secure, scalable systems — one project at a time.</i>
+  <i>" Building secure, scalable systems, one project at a time. "</i>
 </p>
