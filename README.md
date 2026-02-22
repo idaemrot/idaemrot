@@ -1,10 +1,32 @@
 # Hi, I'm Manish Daemrot 👋
 
+
+
 I am a final-year **B.Tech undergraduate in Mathematics & Computing Engineering at Delhi Technological University (DTU)** with a strong interest in **full-stack development, cybersecurity, and system design**. I focus on building scalable, secure, and performance-oriented solutions while maintaining clean and maintainable codebases.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idaemrot&layout=compact&theme=vue-dark&hide_border=true)
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=idaemrot&theme=vue-dark&hide_border=true" 
+    height="170"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=idaemrot&layout=compact&theme=vue-dark&hide_border=true" 
+    height="210"
+  />
+</p>
 
----
+<br/>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idaemrot&theme=github_dark" 
+    width="96%"
+    ba
+  />
+</p>
+
+
 
 ## 🚀 About Me
 
@@ -20,22 +42,36 @@ I am a final-year **B.Tech undergraduate in Mathematics & Computing Engineering 
 ## 🧰 Tech Stack
 
 ### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=c,cpp,js,py)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,py,ts" />
+</p>
 
 ### 🌐 Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
 ### ⚙️ Backend & Frameworks
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,typescript,django)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,django,fastapi" />
+</p>
 
 ### 🗄️ Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
 
-### 🛠️ Tools & Analytics
-[![Tools](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode" />
+</p>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### 📊 Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+</p>
 
 ---
 
