@@ -51,25 +51,59 @@ I build scalable, secure, and performance-focused applications with clean archit
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py" />
 </p>
 
+---
+
 ### Backend & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+  <img src="https://skillicons.dev/icons?i=express" height="45"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="45"/>
+  <img src="https://skillicons.dev/icons?i=django" height="45"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
 </p>
 
+<p align="center">
+  Node.js &nbsp;•&nbsp; Express.js &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; Django &nbsp;•&nbsp; FastAPI
+</p>
+
+
+---
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html" height="45"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react" height="45"/>
 </p>
+
+<p align="center">
+  HTML5 &nbsp;•&nbsp; CSS3 &nbsp;•&nbsp; React
+</p>
+
+---
 
 ### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
 </p>
 
+<p align="center">
+  PostgreSQL &nbsp;•&nbsp; MySQL &nbsp;•&nbsp; MongoDB
+</p>
+
+
+---
 ### Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode" />
+  <img src="https://skillicons.dev/icons?i=git" height="45"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
 </p>
+
+<p align="center">
+  Git &nbsp;•&nbsp; VS Code
+</p>
+
 
 ---
 
