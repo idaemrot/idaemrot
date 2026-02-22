@@ -1,97 +1,97 @@
-# Hi, I'm Manish Daemrot 👋
+<h1 align="center">Hi, I'm Manish Daemrot</h1>
 
+<p align="center">
+  <b>B.Tech Mathematics & Computing Engineering @ DTU</b> <br/>
+  Full-Stack Developer • Backend Enthusiast • Cybersecurity Explorer
+</p>
 
+---
 
-I am a final-year **B.Tech undergraduate in Mathematics & Computing Engineering at Delhi Technological University (DTU)** with a strong interest in **full-stack development, cybersecurity, and system design**. I focus on building scalable, secure, and performance-oriented solutions while maintaining clean and maintainable codebases.
+## GitHub Overview
 
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=idaemrot&theme=vue-dark&hide_border=true" 
     height="170"
+    style="margin-right: 20px;"
   />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=idaemrot&layout=compact&theme=vue-dark&hide_border=true" 
-    height="210"
+    height="205"
   />
 </p>
-
-<br/>
 
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idaemrot&theme=github_dark" 
-    width="96%"
-    ba
+    width="95%"
   />
 </p>
 
+---
 
+## About Me
 
-## 🚀 About Me
+I am a final-year **Mathematics & Computing Engineering** undergraduate at **Delhi Technological University (DTU)**.
 
-- 🎓 Final-year B.Tech student in Mathematics & Computing Engineering (2022–2026)
-- 💻 Full-stack developer with hands-on experience in React, Node.js, TypeScript, and Python
-- 🔐 Experience in cybersecurity and digital forensics, including image anomaly and steganography detection
-- 🧠 Strong foundation in data structures, algorithms, and database optimization
-- 🤝 Leadership experience through National Service Scheme (NSS) DTU
-- ⚙️ Interested in building secure, efficient, and real-world production systems
+I build scalable, secure, and performance-focused applications with clean architecture and maintainable codebases.
+
+- Final-Year Undergraduate (2022–2026)  
+- Full-Stack Developer — React, Node.js, TypeScript, Python  
+- Cybersecurity & Digital Forensics Experience  
+- Strong foundation in Data Structures, Algorithms & Database Design  
+- Interested in backend architecture, system design & performance engineering  
 
 ---
 
-## 🧰 Tech Stack
+## Technical Stack
 
-### 💻 Languages
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,py,ts" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py" />
 </p>
 
-### 🌐 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### ⚙️ Backend & Frameworks
+### Backend & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,django,fastapi" />
 </p>
 
-### 🗄️ Databases
+### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### 🛠️ Tools
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,vscode" />
 </p>
 
-### 📊 Analytics
+---
+
+## Currently Exploring
+
+- Scalable backend architecture & clean API design  
+- Role-based authentication systems  
+- Performance optimization & query tuning  
+- Security-driven system development  
+
+---
+
+## Achievements & Leadership
+
+- Millennium Fellow — Led NSS DTU’s *Voice of Animal* initiative aligned with UN SDGs  
+- Winner — Zonal Science Exhibition  
+- Finalist — National Science Exhibition  
+- Winner — Entrepreneurship Challenge  
+- Led and managed 250+ volunteers under NSS DTU  
+
+---
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <i>Building secure, scalable systems — one project at a time.</i>
 </p>
-
----
-
-## 🌱 Currently Exploring
-
-- Advanced full-stack web development using modern frameworks
-- Secure backend architecture and role-based authentication systems
-- Cybersecurity applications involving image processing and forensic analysis
-- Performance optimization and scalable system design
-
----
-
-## 🏆 Achievements & Leadership
-
-- 🌟 **Millennium Fellow** — Led NSS DTU’s *Voice of Animal* initiative supporting the UN Sustainable Development Goals
-- 🥇 **Winner** — Zonal Science Exhibition (Applied Science)
-- 🏅 **Finalist** — National Science Exhibition (Transportation & Communication)
-- 🚀 **Winner** — Entrepreneurship Challenge (Startup ideation and pitching)
-- 👥 Led and managed teams of **250+ volunteers** under NSS DTU, handling planning, execution, and operations
-
----
-
-Thank you for visiting my profile.
