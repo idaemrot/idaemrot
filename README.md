@@ -10,7 +10,6 @@
 </p>
 
 ---
-![snake gif](https://raw.githubusercontent.com/idaemrot/idaemrot/output/github-contribution-grid-snake.svg)
 
 ## GitHub Overview
 <p align="center">
@@ -127,6 +126,11 @@ I build scalable, secure, and performance-focused applications with clean archit
 - Winner — Entrepreneurship Challenge (Startup ideation & structured pitching)
 
 ---
+<!-- ![snake gif]( -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/idaemrot/idaemrot/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 <p align="center">
   <i>" Building secure, scalable systems, one project at a time. "</i>
