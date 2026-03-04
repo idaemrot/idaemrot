@@ -5,13 +5,20 @@
 </p>
 
 <p align="center">
-  <b>B.Tech Mathematics & Computing Engineering @ DTU</b> <br/>
+  <b>B.Tech Mathematics & Computing Engineering @ DTU 2026 </b> <br/>
   Full-Stack Developer • Backend Enthusiast • Cybersecurity Explorer
 </p>
 
 ---
+<!-- ![snake gif]( -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/idaemrot/idaemrot/output/github-contribution-grid-snake.svg " />
+</p>
+<p align="center">
 
 ## GitHub Overview
+
+
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=idaemrot&theme=vue-dark&hide_border=true" 
@@ -24,7 +31,6 @@
   />
 </p>
 
-<p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idaemrot&theme=github_dark" 
     width="95%"
@@ -126,12 +132,6 @@ I build scalable, secure, and performance-focused applications with clean archit
 - Winner — Entrepreneurship Challenge (Startup ideation & structured pitching)
 
 ---
-<!-- ![snake gif]( -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/idaemrot/idaemrot/output/github-contribution-grid-snake.svg" />
-</p>
-
-
 <p align="center">
   <i>" Building secure, scalable systems, one project at a time. "</i>
 </p>
