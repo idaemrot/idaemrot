@@ -1,14 +1,18 @@
 <h1 align="center">Hi, I'm Manish Daemrot</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=idaemrot&color=blue&style=flat" />
+</p>
+
+<p align="center">
   <b>B.Tech Mathematics & Computing Engineering @ DTU</b> <br/>
   Full-Stack Developer • Backend Enthusiast • Cybersecurity Explorer
 </p>
 
 ---
+![snake gif](https://raw.githubusercontent.com/idaemrot/idaemrot/output/github-contribution-grid-snake.svg)
 
 ## GitHub Overview
-
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=idaemrot&theme=vue-dark&hide_border=true" 
@@ -127,3 +131,4 @@ I build scalable, secure, and performance-focused applications with clean archit
 <p align="center">
   <i>" Building secure, scalable systems, one project at a time. "</i>
 </p>
+
