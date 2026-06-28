@@ -41,11 +41,11 @@
 
 ## About Me
 
-I am a final-year **Mathematics & Computing Engineering** undergraduate at **Delhi Technological University (DTU)**.
+I am a recent **Mathematics & Computing Engineering** graduate from **Delhi Technological University (DTU)**.
 
 I build scalable, secure, and performance-focused applications with clean architecture and maintainable codebases.
 
-- Final-Year Undergraduate (2022–2026)  
+- Recent graduate (2022–2026)  
 - Full-Stack Developer — React, Node.js, TypeScript, Python  
 - Cybersecurity & Digital Forensics Experience  
 - Strong foundation in Data Structures, Algorithms & Database Design  
