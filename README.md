@@ -25,10 +25,10 @@
     height="170"
     style="margin-right: 20px;"
   />
-  <img 
+  <!-- <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=idaemrot&layout=compact&theme=vue-dark&hide_border=true" 
     height="205"
-  />
+  /> -->
 </p>
 
   <img 
