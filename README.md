@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manish Daemrot</h1>
+<h1 align="center">Hi, I'm Manish</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=idaemrot&color=blue&style=flat" />
