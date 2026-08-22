@@ -19,17 +19,17 @@
 ## GitHub Overview
 
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=idaemrot&theme=vue-dark&hide_border=true" 
     height="170"
     style="margin-right: 20px;"
   />
-  <!-- <img 
+  <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=idaemrot&layout=compact&theme=vue-dark&hide_border=true" 
     height="205"
-  /> -->
-</p>
+  />
+</p> -->
 
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idaemrot&theme=github_dark" 
