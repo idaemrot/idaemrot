@@ -122,15 +122,6 @@ I build scalable, secure, and performance-focused applications with clean archit
 - Role-based authentication systems  
 - Performance optimization & query tuning  
 - Security-driven system development  
-
----
-
-## Leadership & Recognition
-
-- Millennium Fellow — Led a 250+ member initiative under NSS DTU, managing structured execution across multiple programs  
-- Recognized at Zonal and National Science Exhibitions for applied problem-solving projects  
-- Winner — Entrepreneurship Challenge (Startup ideation & structured pitching)
-
 ---
 <p align="center">
   <i>" Building secure, scalable systems, one project at a time. "</i>
